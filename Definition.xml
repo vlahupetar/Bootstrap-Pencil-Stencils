@@ -11,7 +11,7 @@ url="https://github.com/nathanielw/Bootstrap-Pencil-Stencils">
 <Properties>
 	<PropertyGroup name="Text">
 		<Property name="textFont" type="Font" displayName="Default Font">"Helvetica Neue", Helvetica, Arial, sans-serif|400|normal|14px</Property>
-		<Property name="textColor" type="Color" displayName="Default Text Color">#333333ff</Property>
+		<Property name="textColor" type="Color" displayName="Default Text Color">#091f28ff</Property>
 	</PropertyGroup>
 	<PropertyGroup name="Line">
 		<Property name="strokeColor" type="Color" displayName="Default Line Color">#ccccccff</Property>
@@ -28,13 +28,13 @@ url="https://github.com/nathanielw/Bootstrap-Pencil-Stencils">
 		<Property name="grayLighter" type="Color" displayName="gray-lighter">#eeeeeeff</Property>
 	</PropertyGroup>
 	<PropertyGroup name="Colors: Brand">
-		<Property name="brandPrimary" type="Color" displayName="brand-primary">#337ab7ff</Property>
-		<Property name="brandSuccess" type="Color" displayName="brand-success">#5cb85cff</Property>
-		<Property name="brandInfo" type="Color" displayName="brand-info">#5bc0deff</Property>
+		<Property name="brandPrimary" type="Color" displayName="brand-primary">#3d77f9ff</Property>
+		<Property name="brandSuccess" type="Color" displayName="brand-success">#00ad67ff</Property>
+		<Property name="brandInfo" type="Color" displayName="brand-info">#0097dcff</Property>
 	</PropertyGroup>
 	<PropertyGroup name="Colors: Brand (cont.)">
-		<Property name="brandWarning" type="Color" displayName="brand-warning">#f0ad4eff</Property>
-		<Property name="brandDanger" type="Color" displayName="brand-danger">#d9534fff</Property>
+		<Property name="brandWarning" type="Color" displayName="brand-warning">#fdcf17ff</Property>
+		<Property name="brandDanger" type="Color" displayName="brand-danger">#d3222aff</Property>
 	</PropertyGroup>
 </Properties>
 
