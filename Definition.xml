@@ -253,7 +253,7 @@ url="https://github.com/nathanielw/Bootstrap-Pencil-Stencils">
 		<PropertyGroup>
 			<Property name="box" type="Dimension">71,34</Property>
 			<Property name="smartColor" displayName="Automatic border color" type="Bool">true</Property>
-			<Property name="radius" displayName="Corner Radius" type="Handle" p:lockY="true" p:minX="0" p:maxX="$box.h / 2" p:noScale="true">4,0</Property>
+			<Property name="radius" displayName="Corner Radius" type="Handle" p:lockY="true" p:minX="0" p:maxX="$box.h / 2" p:noScale="true">0,0</Property>
 		</PropertyGroup>
 		<PropertyGroup name="Text">
 			<Property name="textContent" displayName="Text Content" type="PlainText"><![CDATA[Button]]></Property>
